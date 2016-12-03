@@ -12,7 +12,7 @@
 
 * **[Rolemodels](#rolemodels)**  
 
-* **[WebSites](#websites)**  
+* **[Blog](#blog)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -39,9 +39,15 @@
 
 1. 
 
-### WebSites
+### Blog
 
-1.  
+2. [Peter Norvig: Teach Yourself Programming in Ten Years](http://blog.udacity.com/2014/01/peter-norvig-teach-yourself-programming.html) by Brenna Van Norman  (01/21/2014) 
+
+2. [Programming Habits](http://web.mit.edu/~axch/www/programming_habits.html) by Alexey Redul  (02/15/2007) 
+
+3. [Seven Habits of a Great Programmer](https://medium.com/@hilsoftinc/seven-habits-of-a-great-programmer-36682b736c83#.a51egdii0) by Dennis M. Hilario  (06/15/2014) 
+
+
 
 ### Miscellaneous
 
