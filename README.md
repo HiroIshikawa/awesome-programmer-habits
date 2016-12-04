@@ -21,7 +21,9 @@
 
 ### Books
 
-1.  
+1. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882?tag=ecosia-20) by Robert C. Martin  (08/11/2008) 
+
+2. [The Pragmetic Programmer: From Journeyman to Master](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1399996090&sr=8-1&keywords=pragmatic+programmer) by Andrew Hunt, David Thomas  (10/30/1999)
  
 ### Courses
 
@@ -41,7 +43,7 @@
 
 ### Blog
 
-2. [Peter Norvig: Teach Yourself Programming in Ten Years](http://blog.udacity.com/2014/01/peter-norvig-teach-yourself-programming.html) by Brenna Van Norman  (01/21/2014) 
+1. [Peter Norvig: Teach Yourself Programming in Ten Years](http://blog.udacity.com/2014/01/peter-norvig-teach-yourself-programming.html) by Brenna Van Norman  (01/21/2014)
 
 2. [Programming Habits](http://web.mit.edu/~axch/www/programming_habits.html) by Alexey Redul  (02/15/2007) 
 
