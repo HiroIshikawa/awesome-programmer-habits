@@ -25,9 +25,11 @@
 
 1. [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
-2. [Tim Ferriss shares how to master any skill by deconstructing it | The Next Web](https://www.youtube.com/watch?v=DSq9uGs_z0E)
+2. [Seven ineffective coding habits of many programmers - Kevlin Henney](https://www.youtube.com/watch?v=oyyFKHpzL0Q)
 
-3. [Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho)
+3. [Tim Ferriss shares how to master any skill by deconstructing it | The Next Web](https://www.youtube.com/watch?v=DSq9uGs_z0E)
+
+4. [Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho)
 
 ### Blog
 
