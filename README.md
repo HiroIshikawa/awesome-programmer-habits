@@ -1,20 +1,16 @@
 # Programmer Habits 
 
+> “I'm not a great programmer; I'm just a good programmer with great habits.” - Kent Beck
+
 ## Table of Contents
 
 * **[Books](#books)**  
 
-* **[Courses](#courses)**  
-
 * **[Videos](#videos)**  
-
-* **[Papers](#papers)**  
 
 * **[Rolemodels](#rolemodels)**  
 
 * **[Blog](#blog)**  
-
-* **[Miscellaneous](#miscellaneous)**  
 
 * **[Contributing](#contributing)**  
 
@@ -25,21 +21,15 @@
 
 2. [The Pragmetic Programmer: From Journeyman to Master](https://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1399996090&sr=8-1&keywords=pragmatic+programmer) by Andrew Hunt, David Thomas  (10/30/1999)
  
-### Courses
-
-1.  
+3. [Coders at Work: Reflections on the Craft of Programming](https://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483) by Peter Seibel  (9/15/2009)
 
 ### Videos
 
-1.  
+1. [Google I/O 2009 - The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
-### Papers
+2. [Tim Ferriss shares how to master any skill by deconstructing it | The Next Web](https://www.youtube.com/watch?v=DSq9uGs_z0E)
 
-1.  
-
-### Rolemodels
-
-1. 
+3. [Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho)
 
 ### Blog
 
@@ -49,11 +39,6 @@
 
 3. [Seven Habits of a Great Programmer](https://medium.com/@hilsoftinc/seven-habits-of-a-great-programmer-36682b736c83#.a51egdii0) by Dennis M. Hilario  (06/15/2014) 
 
-
-
-### Miscellaneous
-
-1.  
 
 -----
 ### Contributing
