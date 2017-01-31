@@ -8,8 +8,6 @@
 
 * **[Videos](#videos)**  
 
-* **[Rolemodels](#rolemodels)**  
-
 * **[Blog](#blog)**  
 
 * **[Contributing](#contributing)**  
